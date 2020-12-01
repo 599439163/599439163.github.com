@@ -8,7 +8,7 @@
       <p><b>地址:宁波市勤州区盛莫路1519号浙江万里学院回龙校区， 邮编：315100</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/QQ图片20201201132336.jpg" width="100%">
     </td>
   </tr>
  </table>
